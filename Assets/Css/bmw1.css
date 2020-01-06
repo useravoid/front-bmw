@@ -163,14 +163,14 @@ nav {
 }
 
 .srednji_deo {
-  grid-column: 1/6;
+	grid-column: 1/6;
 	grid-row:3/4;
-	border:solid auto grey;
+	/* align-self:center;  */
+	/* border:solid auto grey; */
 	text-align: center;
 	background: grey;
-	/* align-self:center;  */
 	/* margin: 50px; */
-	padding-top: 3vh;
+	padding: 2vh 2vh 2vh 2vh;
 }
 
 ul li {
