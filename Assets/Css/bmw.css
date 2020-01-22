@@ -164,7 +164,7 @@ nav {
 	background-attachment:fixed;
 	background-position: center;
 	/* opacity: 0.9; */
-	border:solid 5px black;
+	/* border:solid 5px black; */
 } 
 
 @media only screen and (min-width:1151px){
@@ -173,7 +173,7 @@ nav {
 	flex-direction: row;
 	/* border:solid 5px purple; */
 	width: 100%;
-	background-color: hsla(0,0%,0%,.5) 	  
+	/* background-color: hsla(0,0%,0%,.5) 	   */
 }
 .slike-before {
 	display:flex;
@@ -321,6 +321,7 @@ footer > a{
 
 @media only screen and (min-width:1367px){
 
+
 	.before1:hover {
 		position:absolute;
 		top:65%;
@@ -414,7 +415,7 @@ footer > a{
 		.sve-slike {
 			display: flex;
 			flex-direction: column;
-			background-color: hsla(0,0%,50%,1) ;
+			/* background-color: hsla(0,0%,50%,1) ; */
 		}
 		
 		.slike-before {

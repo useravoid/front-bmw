@@ -1,0 +1,1 @@
+      alert("Ova strana je uradjena sa FLEXBOX-om dok su sve ostale uradjene sa GRIDOBOX-om radi poredjenja. Iako moze isto da se postigne, definitivno grid ima prednost za bilo sta slozenije. Prilagodjeno je i za mob.");
